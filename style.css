@@ -330,6 +330,7 @@ a:hover {
         float: none;
         margin: 10px auto 0;
     }
+
 }
 .nav > li > .dropdown a {
     display: block;
@@ -883,5 +884,8 @@ h3 {
     }
     .bloc-mob-center-text {
         text-align: center;
+    }
+    .boutton-tactile {
+        padding: 1rem 0;
     }
 }
